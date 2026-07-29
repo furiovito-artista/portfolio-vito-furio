@@ -367,5 +367,14 @@
     "immagine": "/assets/images/img20191128151949.jpg",
     "ordine": 403,
     "visibile": true
+  },
+  {
+    "id": "opera-043",
+    "titolo": "Pane",
+    "categoria": "dipinti",
+    "descrizione": "Natura morta",
+    "immagine": "/assets/images/chatgpt-image-29-lug-2026-175018.png",
+    "ordine": 404,
+    "visibile": true
   }
 ]
