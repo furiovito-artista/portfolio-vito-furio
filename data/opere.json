@@ -5,7 +5,7 @@
     "categoria": "dipinti",
     "descrizione": "Natura morta",
     "immagine": "/assets/images/chatgpt-image-29-lug-2026-175018.png",
-    "ordine": 404,
+    "ordine": 30,
     "visibile": true
   },
   {
@@ -23,7 +23,7 @@
     "categoria": "dipinti",
     "descrizione": "la Principessa",
     "immagine": "/assets/images/img20191128151949.jpg",
-    "ordine": 403,
+    "ordine": 40,
     "visibile": true
   },
   {
@@ -95,7 +95,7 @@
     "categoria": "dipinti",
     "descrizione": "Dipinto figurativo.",
     "immagine": "/assets/images/dipinti-uomo-bolle.webp",
-    "ordine": 100,
+    "ordine": 50,
     "visibile": true
   },
   {
@@ -104,7 +104,7 @@
     "categoria": "dipinti",
     "descrizione": "Pittura narrativa e simbolica.",
     "immagine": "/assets/images/fbimg1753537888145.jpg",
-    "ordine": 110,
+    "ordine": 60,
     "visibile": true
   },
   {
@@ -113,7 +113,7 @@
     "categoria": "dipinti",
     "descrizione": "Composizione pittorica fantastica.",
     "immagine": "/assets/images/fbimg1753537897508.jpg",
-    "ordine": 120,
+    "ordine": 69,
     "visibile": true
   },
   {
@@ -122,7 +122,7 @@
     "categoria": "dipinti",
     "descrizione": "Dipinto simbolico.",
     "immagine": "/assets/images/fbimg1753537909308.jpg",
-    "ordine": 130,
+    "ordine": 79,
     "visibile": true
   },
   {
@@ -140,7 +140,7 @@
     "categoria": "dipinti",
     "descrizione": "Studio pittorico dal vero.",
     "immagine": "/assets/images/dipinti-natura-morta-zucca.webp",
-    "ordine": 150,
+    "ordine": 90,
     "visibile": true
   },
   {
@@ -149,7 +149,7 @@
     "categoria": "dipinti",
     "descrizione": "Composizione pittorica narrativa.",
     "immagine": "/assets/images/fbimg17397927918752.jpg",
-    "ordine": 160,
+    "ordine": 99,
     "visibile": true
   },
   {
