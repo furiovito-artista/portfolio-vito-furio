@@ -37,6 +37,11 @@
       "codice": "sandart",
       "titolo": "Sand Art",
       "descrizione": "Immagini create dal vivo con sabbia e luce."
+    },
+    {
+      "codice": "archivio",
+      "titolo": "Archivio artistico",
+      "descrizione": "Opere, studi, oggetti scenici e documentazione di progetti artistici."
     }
   ],
   "frase": "L’immagine diventa opera quando trova un corpo, una materia o uno spazio da abitare.",
