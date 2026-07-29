@@ -1,0 +1,49 @@
+{
+  "titolo_pagina": "Vito Furio — Portfolio artistico",
+  "descrizione_pagina": "Dipinti, illustrazioni, pirografie, murales, scenografie, teatro, arte di strada e Sand Art di Vito Furio.",
+  "nome_artista": "Vito Furio",
+  "testo_copertina": "Dipinti, pirografie, murales, scenografie, teatro, arte di strada e Sand Art.",
+  "immagine_copertina": "/assets/images/dipinti-personaggio-bolle.webp",
+  "titolo_profilo": "Un immaginario che prende corpo.",
+  "profilo_paragrafo_1": "Il lavoro di Vito Furio attraversa tecniche e linguaggi differenti, conservando un nucleo comune: la costruzione di figure, mondi e presenze narrative.",
+  "profilo_paragrafo_2": "Dal segno bruciato sul legno alla pittura, dal muro allo spazio scenico, ogni opera cerca una forma capace di incontrare lo sguardo e abitare un luogo.",
+  "discipline": [
+    {
+      "codice": "dipinti",
+      "titolo": "Dipinti e illustrazioni",
+      "descrizione": "Figure fantastiche, ritratti e composizioni narrative."
+    },
+    {
+      "codice": "pirografie",
+      "titolo": "Pirografie",
+      "descrizione": "Segno e chiaroscuro incisi dal calore sul legno."
+    },
+    {
+      "codice": "murales",
+      "titolo": "Murales",
+      "descrizione": "Immagini pittoriche che trasformano la parete."
+    },
+    {
+      "codice": "scenografie",
+      "titolo": "Scenografie e oggetti",
+      "descrizione": "Figure, pupazzi, assemblaggi e allestimenti."
+    },
+    {
+      "codice": "teatro",
+      "titolo": "Teatro e arte di strada",
+      "descrizione": "Costume, personaggio e azione nello spazio."
+    },
+    {
+      "codice": "sandart",
+      "titolo": "Sand Art",
+      "descrizione": "Immagini create dal vivo con sabbia e luce."
+    }
+  ],
+  "frase": "L’immagine diventa opera quando trova un corpo, una materia o uno spazio da abitare.",
+  "titolo_contatti": "Un progetto da immaginare.",
+  "testo_contatti": "Commissioni artistiche, murales, scenografie, collaborazioni ed eventi.",
+  "email": "furiovito@gmail.com",
+  "telefono": "+39 333 334 4665",
+  "luogo": "Porto Torres · Sardegna",
+  "testo_footer": "© 2026 Vito Furio · Portfolio artistico"
+}

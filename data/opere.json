@@ -1,0 +1,371 @@
+[
+  {
+    "id": "opera-001",
+    "titolo": "Personaggio giocoliere",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione figurativa dipinta.",
+    "immagine": "/assets/images/dipinti-giocoliere.webp",
+    "ordine": 10,
+    "visibile": true
+  },
+  {
+    "id": "opera-002",
+    "titolo": "Personaggio e bolle",
+    "categoria": "dipinti",
+    "descrizione": "Dipinto fantastico su tela.",
+    "immagine": "/assets/images/dipinti-personaggio-bolle.webp",
+    "ordine": 20,
+    "visibile": true
+  },
+  {
+    "id": "opera-003",
+    "titolo": "La nave e la balena",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione ad acquerello e segno grafico.",
+    "immagine": "/assets/images/dipinti-nave-balena.webp",
+    "ordine": 30,
+    "visibile": true
+  },
+  {
+    "id": "opera-004",
+    "titolo": "Ragazza con gatto",
+    "categoria": "dipinti",
+    "descrizione": "Disegno e colore su carta.",
+    "immagine": "/assets/images/dipinti-ragazza-gatto.webp",
+    "ordine": 40,
+    "visibile": true
+  },
+  {
+    "id": "opera-005",
+    "titolo": "Ritratto rosso",
+    "categoria": "dipinti",
+    "descrizione": "Ritratto pittorico materico.",
+    "immagine": "/assets/images/dipinti-ritratto-rosso.webp",
+    "ordine": 50,
+    "visibile": true
+  },
+  {
+    "id": "opera-006",
+    "titolo": "Figura blu",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione figurativa su carta.",
+    "immagine": "/assets/images/dipinti-figura-blu.webp",
+    "ordine": 60,
+    "visibile": true
+  },
+  {
+    "id": "opera-007",
+    "titolo": "Ritratto verde",
+    "categoria": "dipinti",
+    "descrizione": "Pittura figurativa e materia.",
+    "immagine": "/assets/images/dipinti-ritratto-verde.webp",
+    "ordine": 70,
+    "visibile": true
+  },
+  {
+    "id": "opera-008",
+    "titolo": "Creatura nella bottiglia",
+    "categoria": "dipinti",
+    "descrizione": "Disegno fantastico a grafite.",
+    "immagine": "/assets/images/dipinti-creatura-bottiglia.webp",
+    "ordine": 80,
+    "visibile": true
+  },
+  {
+    "id": "opera-009",
+    "titolo": "Balena volante",
+    "categoria": "dipinti",
+    "descrizione": "Pittura narrativa fantastica.",
+    "immagine": "/assets/images/dipinti-balena-volante.webp",
+    "ordine": 90,
+    "visibile": true
+  },
+  {
+    "id": "opera-010",
+    "titolo": "L’uomo delle bolle",
+    "categoria": "dipinti",
+    "descrizione": "Dipinto figurativo.",
+    "immagine": "/assets/images/dipinti-uomo-bolle.webp",
+    "ordine": 100,
+    "visibile": true
+  },
+  {
+    "id": "opera-011",
+    "titolo": "L’uomo e la nave",
+    "categoria": "dipinti",
+    "descrizione": "Pittura narrativa e simbolica.",
+    "immagine": "/assets/images/dipinti-uomo-nave.webp",
+    "ordine": 110,
+    "visibile": true
+  },
+  {
+    "id": "opera-012",
+    "titolo": "Il libro-isola",
+    "categoria": "dipinti",
+    "descrizione": "Composizione pittorica fantastica.",
+    "immagine": "/assets/images/dipinti-libro-isola.webp",
+    "ordine": 120,
+    "visibile": true
+  },
+  {
+    "id": "opera-013",
+    "titolo": "La mano e il calice",
+    "categoria": "dipinti",
+    "descrizione": "Dipinto simbolico.",
+    "immagine": "/assets/images/dipinti-mano-calice.webp",
+    "ordine": 130,
+    "visibile": true
+  },
+  {
+    "id": "opera-014",
+    "titolo": "Il viaggiatore sulla lumaca",
+    "categoria": "dipinti",
+    "descrizione": "Pittura fantastica.",
+    "immagine": "/assets/images/dipinti-viaggiatore-lumaca.webp",
+    "ordine": 140,
+    "visibile": true
+  },
+  {
+    "id": "opera-015",
+    "titolo": "Natura morta con zucca",
+    "categoria": "dipinti",
+    "descrizione": "Studio pittorico dal vero.",
+    "immagine": "/assets/images/dipinti-natura-morta-zucca.webp",
+    "ordine": 150,
+    "visibile": true
+  },
+  {
+    "id": "opera-016",
+    "titolo": "Figure fantastiche",
+    "categoria": "dipinti",
+    "descrizione": "Composizione pittorica narrativa.",
+    "immagine": "/assets/images/dipinti-figure-fantastiche.webp",
+    "ordine": 160,
+    "visibile": true
+  },
+  {
+    "id": "opera-017",
+    "titolo": "Ragazza con palla",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione a china.",
+    "immagine": "/assets/images/dipinti-ragazza-palla.webp",
+    "ordine": 170,
+    "visibile": true
+  },
+  {
+    "id": "opera-018",
+    "titolo": "Figura con conchiglia",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione a china.",
+    "immagine": "/assets/images/dipinti-figura-conchiglia.webp",
+    "ordine": 180,
+    "visibile": true
+  },
+  {
+    "id": "opera-019",
+    "titolo": "Bambina e libro",
+    "categoria": "dipinti",
+    "descrizione": "Illustrazione colorata.",
+    "immagine": "/assets/images/dipinti-bambina-libro.webp",
+    "ordine": 190,
+    "visibile": true
+  },
+  {
+    "id": "opera-020",
+    "titolo": "Repertorio di personaggi",
+    "categoria": "dipinti",
+    "descrizione": "Studio grafico di figure e simboli.",
+    "immagine": "/assets/images/dipinti-repertorio-disegni.webp",
+    "ordine": 200,
+    "visibile": true
+  },
+  {
+    "id": "opera-021",
+    "titolo": "Figura con cappello",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-figura-cappello.webp",
+    "ordine": 210,
+    "visibile": true
+  },
+  {
+    "id": "opera-022",
+    "titolo": "Musicista fantastico",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-musicista.webp",
+    "ordine": 220,
+    "visibile": true
+  },
+  {
+    "id": "opera-023",
+    "titolo": "Ciclisti fantastici",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-ciclisti.webp",
+    "ordine": 230,
+    "visibile": true
+  },
+  {
+    "id": "opera-024",
+    "titolo": "Veicolo immaginario",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-veicolo.webp",
+    "ordine": 240,
+    "visibile": true
+  },
+  {
+    "id": "opera-025",
+    "titolo": "Volpe in abito",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-volpe.webp",
+    "ordine": 250,
+    "visibile": true
+  },
+  {
+    "id": "opera-026",
+    "titolo": "Viaggiatore fantastico",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-viaggiatore.webp",
+    "ordine": 260,
+    "visibile": true
+  },
+  {
+    "id": "opera-027",
+    "titolo": "Lepre in abito",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-lepre.webp",
+    "ordine": 270,
+    "visibile": true
+  },
+  {
+    "id": "opera-028",
+    "titolo": "Città fantastica",
+    "categoria": "pirografie",
+    "descrizione": "Pirografia su tavola circolare.",
+    "immagine": "/assets/images/pirografie-piro-citta.webp",
+    "ordine": 280,
+    "visibile": true
+  },
+  {
+    "id": "opera-029",
+    "titolo": "Maschera zoomorfa",
+    "categoria": "pirografie",
+    "descrizione": "Oggetto ligneo decorato con pirografia.",
+    "immagine": "/assets/images/pirografie-piro-maschera.webp",
+    "ordine": 290,
+    "visibile": true
+  },
+  {
+    "id": "opera-030",
+    "titolo": "Personaggio murale",
+    "categoria": "murales",
+    "descrizione": "Intervento pittorico su parete.",
+    "immagine": "/assets/images/murales-murale-personaggio.webp",
+    "ordine": 300,
+    "visibile": true
+  },
+  {
+    "id": "opera-031",
+    "titolo": "Murale in lavorazione",
+    "categoria": "murales",
+    "descrizione": "Fase di realizzazione pittorica su parete.",
+    "immagine": "/assets/images/murales-murale-processo.webp",
+    "ordine": 310,
+    "visibile": true
+  },
+  {
+    "id": "opera-032",
+    "titolo": "Busto scenico",
+    "categoria": "scenografie",
+    "descrizione": "Figura plastica e presenza scenografica.",
+    "immagine": "/assets/images/scenografie-busto-scenico.webp",
+    "ordine": 320,
+    "visibile": true
+  },
+  {
+    "id": "opera-033",
+    "titolo": "Oggetti di viaggio",
+    "categoria": "scenografie",
+    "descrizione": "Serie di oggetti artistici e assemblaggi.",
+    "immagine": "/assets/images/scenografie-oggetti-viaggio.webp",
+    "ordine": 330,
+    "visibile": true
+  },
+  {
+    "id": "opera-034",
+    "titolo": "Strumento-scultura",
+    "categoria": "scenografie",
+    "descrizione": "Oggetto artistico tra musica e ingranaggio.",
+    "immagine": "/assets/images/scenografie-strumento-scultura.webp",
+    "ordine": 340,
+    "visibile": true
+  },
+  {
+    "id": "opera-035",
+    "titolo": "Pupazzo sospeso",
+    "categoria": "scenografie",
+    "descrizione": "Personaggio e oggetto scenografico.",
+    "immagine": "/assets/images/scenografie-pupazzo-sospeso.webp",
+    "ordine": 350,
+    "visibile": true
+  },
+  {
+    "id": "opera-036",
+    "titolo": "Figura in equilibrio",
+    "categoria": "scenografie",
+    "descrizione": "Pannello materico e oggetto artistico.",
+    "immagine": "/assets/images/scenografie-pannello-ombra.webp",
+    "ordine": 360,
+    "visibile": true
+  },
+  {
+    "id": "opera-037",
+    "titolo": "Allestimento circense",
+    "categoria": "scenografie",
+    "descrizione": "Spazio e oggetto scenografico per spettacolo.",
+    "immagine": "/assets/images/scenografie-allestimento-circo.webp",
+    "ordine": 370,
+    "visibile": true
+  },
+  {
+    "id": "opera-038",
+    "titolo": "Personaggio dal grande cappello",
+    "categoria": "teatro",
+    "descrizione": "Costume e presenza di teatro di strada.",
+    "immagine": "/assets/images/teatro-personaggio-cappello.webp",
+    "ordine": 380,
+    "visibile": true
+  },
+  {
+    "id": "opera-039",
+    "titolo": "Scena a due",
+    "categoria": "teatro",
+    "descrizione": "Azione teatrale e costruzione del personaggio.",
+    "immagine": "/assets/images/teatro-scena-due-attori.webp",
+    "ordine": 390,
+    "visibile": true
+  },
+  {
+    "id": "opera-040",
+    "titolo": "Azione nello spazio urbano",
+    "categoria": "teatro",
+    "descrizione": "Performance e arte di strada.",
+    "immagine": "/assets/images/teatro-azione-strada.webp",
+    "ordine": 400,
+    "visibile": true
+  },
+  {
+    "id": "opera-041",
+    "titolo": "Sand Art dal vivo",
+    "categoria": "sandart",
+    "descrizione": "Disegno con la sabbia su tavolo luminoso durante uno spettacolo.",
+    "immagine": "/assets/images/sandart-sand-art-dal-vivo.webp",
+    "ordine": 410,
+    "visibile": true
+  }
+]

@@ -1,0 +1,164 @@
+media:
+  name: immagini
+  label: Immagini del portfolio
+  input: assets/images
+  output: /assets/images
+  extensions: [jpg, jpeg, png, webp]
+  categories: [image]
+  rename: safe
+
+content:
+  - name: sito
+    label: Impostazioni del sito
+    type: file
+    path: data/sito.json
+    format: json
+    fields:
+      - name: titolo_pagina
+        label: Titolo della pagina
+        type: string
+        required: true
+      - name: descrizione_pagina
+        label: Descrizione per Google
+        type: text
+      - name: nome_artista
+        label: Nome in copertina
+        type: string
+        required: true
+      - name: testo_copertina
+        label: Testo in copertina
+        type: text
+      - name: immagine_copertina
+        label: Immagine di copertina
+        type: image
+        required: true
+        options:
+          media: immagini
+      - name: titolo_profilo
+        label: Titolo del profilo
+        type: string
+      - name: profilo_paragrafo_1
+        label: Primo paragrafo del profilo
+        type: text
+      - name: profilo_paragrafo_2
+        label: Secondo paragrafo del profilo
+        type: text
+      - name: discipline
+        label: Ambiti artistici
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{titolo}"
+        fields:
+          - name: codice
+            label: Codice
+            type: select
+            required: true
+            options:
+              values:
+                - name: dipinti
+                  label: Dipinti e illustrazioni
+                - name: pirografie
+                  label: Pirografie
+                - name: murales
+                  label: Murales
+                - name: scenografie
+                  label: Scenografie e oggetti
+                - name: teatro
+                  label: Teatro e arte di strada
+                - name: sandart
+                  label: Sand Art
+          - name: titolo
+            label: Titolo
+            type: string
+            required: true
+          - name: descrizione
+            label: Descrizione
+            type: text
+      - name: frase
+        label: Frase centrale
+        type: text
+      - name: titolo_contatti
+        label: Titolo dei contatti
+        type: string
+      - name: testo_contatti
+        label: Testo dei contatti
+        type: text
+      - name: email
+        label: Email
+        type: string
+      - name: telefono
+        label: Telefono
+        type: string
+      - name: luogo
+        label: Luogo
+        type: string
+      - name: testo_footer
+        label: Testo in fondo alla pagina
+        type: string
+
+  - name: opere
+    label: Opere del portfolio
+    type: file
+    path: data/opere.json
+    format: json
+    list: true
+    fields:
+      - name: id
+        label: Codice interno
+        type: string
+        required: true
+        description: Usa un codice diverso per ogni opera, senza spazi.
+        pattern: "^[a-z0-9-]+$"
+      - name: titolo
+        label: Titolo
+        type: string
+        required: true
+      - name: categoria
+        label: Categoria
+        type: select
+        required: true
+        options:
+          values:
+            - name: dipinti
+              label: Dipinti e illustrazioni
+            - name: pirografie
+              label: Pirografie
+            - name: murales
+              label: Murales
+            - name: scenografie
+              label: Scenografie e oggetti
+            - name: teatro
+              label: Teatro e arte di strada
+            - name: sandart
+              label: Sand Art
+      - name: descrizione
+        label: Descrizione
+        type: text
+      - name: immagine
+        label: Fotografia
+        type: image
+        required: true
+        options:
+          media: immagini
+      - name: ordine
+        label: Ordine
+        type: number
+        required: true
+        description: I numeri più bassi compaiono prima.
+      - name: visibile
+        label: Mostra nel sito
+        type: boolean
+        default: true
+
+settings:
+  content:
+    merge: true
+  commit:
+    identity: user
+    templates:
+      create: "Aggiunge {path}"
+      update: "Aggiorna {path}"
+      delete: "Elimina {path}"
+      rename: "Rinomina {oldPath} in {newPath}"
