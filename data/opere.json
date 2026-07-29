@@ -1,6 +1,6 @@
 [
   {
-    "id": "opera-10",
+    "id": "opera-001",
     "titolo": "Pane",
     "categoria": "dipinti",
     "descrizione": "Natura morta",
@@ -9,7 +9,7 @@
     "visibile": true
   },
   {
-    "id": "opera-20",
+    "id": "opera-002",
     "titolo": "Personaggio e bolle",
     "categoria": "dipinti",
     "descrizione": "Dipinto fantastico su tela.",
@@ -18,7 +18,7 @@
     "visibile": true
   },
   {
-    "id": "opera-30",
+    "id": "opera-003",
     "titolo": "Libera",
     "categoria": "dipinti",
     "descrizione": "la Principessa",
@@ -27,7 +27,7 @@
     "visibile": true
   },
   {
-    "id": "opera-40",
+    "id": "opera-004",
     "titolo": "La nave e la balena",
     "categoria": "dipinti",
     "descrizione": "Illustrazione ad acquerello e segno grafico.",
@@ -36,7 +36,7 @@
     "visibile": true
   },
   {
-    "id": "opera-50",
+    "id": "opera-005",
     "titolo": "Ragazza con gatto",
     "categoria": "dipinti",
     "descrizione": "Disegno e colore su carta.",
