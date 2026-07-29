@@ -356,7 +356,16 @@
     "categoria": "sandart",
     "descrizione": "Disegno con la sabbia su tavolo luminoso durante uno spettacolo.",
     "immagine": "/assets/images/sandart-sand-art-dal-vivo.webp",
-    "ordine": 410,
+    "ordine": 402,
+    "visibile": true
+  },
+  {
+    "id": "opera-042",
+    "titolo": "Libera",
+    "categoria": "dipinti",
+    "descrizione": "la Principessa",
+    "immagine": "/assets/images/img20191128151949.jpg",
+    "ordine": 403,
     "visibile": true
   }
 ]
