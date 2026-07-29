@@ -32,7 +32,7 @@
     "categoria": "dipinti",
     "descrizione": "Illustrazione ad acquerello e segno grafico.",
     "immagine": "/assets/images/dipinti-nave-balena.webp",
-    "ordine": 30,
+    "ordine": 199,
     "visibile": true
   },
   {
@@ -41,7 +41,7 @@
     "categoria": "dipinti",
     "descrizione": "Disegno e colore su carta.",
     "immagine": "/assets/images/dipinti-ragazza-gatto.webp",
-    "ordine": 40,
+    "ordine": 210,
     "visibile": true
   },
   {
@@ -50,7 +50,7 @@
     "categoria": "dipinti",
     "descrizione": "Ritratto pittorico materico.",
     "immagine": "/assets/images/dipinti-ritratto-rosso.webp",
-    "ordine": 50,
+    "ordine": 220,
     "visibile": true
   },
   {
@@ -59,7 +59,7 @@
     "categoria": "dipinti",
     "descrizione": "Illustrazione figurativa su carta.",
     "immagine": "/assets/images/dipinti-figura-blu.webp",
-    "ordine": 60,
+    "ordine": 230,
     "visibile": true
   },
   {
@@ -68,7 +68,7 @@
     "categoria": "dipinti",
     "descrizione": "Pittura figurativa e materia.",
     "immagine": "/assets/images/dipinti-ritratto-verde.webp",
-    "ordine": 70,
+    "ordine": 240,
     "visibile": true
   },
   {
@@ -86,7 +86,7 @@
     "categoria": "dipinti",
     "descrizione": "Pittura narrativa fantastica.",
     "immagine": "/assets/images/dipinti-balena-volante.webp",
-    "ordine": 90,
+    "ordine": 250,
     "visibile": true
   },
   {
@@ -131,7 +131,7 @@
     "categoria": "dipinti",
     "descrizione": "Pittura fantastica.",
     "immagine": "/assets/images/dipinti-viaggiatore-lumaca.webp",
-    "ordine": 140,
+    "ordine": 258,
     "visibile": true
   },
   {
