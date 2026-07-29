@@ -1,6 +1,15 @@
 [
   {
-    "id": "opera-002",
+    "id": "opera-10",
+    "titolo": "Pane",
+    "categoria": "dipinti",
+    "descrizione": "Natura morta",
+    "immagine": "/assets/images/chatgpt-image-29-lug-2026-175018.png",
+    "ordine": 404,
+    "visibile": true
+  },
+  {
+    "id": "opera-20",
     "titolo": "Personaggio e bolle",
     "categoria": "dipinti",
     "descrizione": "Dipinto fantastico su tela.",
@@ -9,7 +18,16 @@
     "visibile": true
   },
   {
-    "id": "opera-003",
+    "id": "opera-30",
+    "titolo": "Libera",
+    "categoria": "dipinti",
+    "descrizione": "la Principessa",
+    "immagine": "/assets/images/img20191128151949.jpg",
+    "ordine": 403,
+    "visibile": true
+  },
+  {
+    "id": "opera-40",
     "titolo": "La nave e la balena",
     "categoria": "dipinti",
     "descrizione": "Illustrazione ad acquerello e segno grafico.",
@@ -18,7 +36,7 @@
     "visibile": true
   },
   {
-    "id": "opera-004",
+    "id": "opera-50",
     "titolo": "Ragazza con gatto",
     "categoria": "dipinti",
     "descrizione": "Disegno e colore su carta.",
@@ -27,7 +45,7 @@
     "visibile": true
   },
   {
-    "id": "opera-005",
+    "id": "opera-60",
     "titolo": "Ritratto rosso",
     "categoria": "dipinti",
     "descrizione": "Ritratto pittorico materico.",
@@ -36,7 +54,7 @@
     "visibile": true
   },
   {
-    "id": "opera-006",
+    "id": "opera-70",
     "titolo": "Figura blu",
     "categoria": "dipinti",
     "descrizione": "Illustrazione figurativa su carta.",
@@ -45,7 +63,7 @@
     "visibile": true
   },
   {
-    "id": "opera-007",
+    "id": "opera-80",
     "titolo": "Ritratto verde",
     "categoria": "dipinti",
     "descrizione": "Pittura figurativa e materia.",
@@ -357,24 +375,6 @@
     "descrizione": "Disegno con la sabbia su tavolo luminoso durante uno spettacolo.",
     "immagine": "/assets/images/sandart-sand-art-dal-vivo.webp",
     "ordine": 402,
-    "visibile": true
-  },
-  {
-    "id": "opera-042",
-    "titolo": "Libera",
-    "categoria": "dipinti",
-    "descrizione": "la Principessa",
-    "immagine": "/assets/images/img20191128151949.jpg",
-    "ordine": 403,
-    "visibile": true
-  },
-  {
-    "id": "opera-043",
-    "titolo": "Pane",
-    "categoria": "dipinti",
-    "descrizione": "Natura morta",
-    "immagine": "/assets/images/chatgpt-image-29-lug-2026-175018.png",
-    "ordine": 404,
     "visibile": true
   }
 ]
