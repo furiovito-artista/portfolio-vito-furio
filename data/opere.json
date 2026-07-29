@@ -1,20 +1,20 @@
 [
   {
+    "id": "opera-002",
+    "titolo": "Personaggio e bolle",
+    "categoria": "dipinti",
+    "descrizione": "Dipinto fantastico su tela.",
+    "immagine": "/assets/images/dipinti-personaggio-bolle.webp",
+    "ordine": 26,
+    "visibile": true
+  },
+  {
     "id": "opera-001",
     "titolo": "Pane",
     "categoria": "dipinti",
     "descrizione": "Natura morta",
     "immagine": "/assets/images/chatgpt-image-29-lug-2026-175018.png",
     "ordine": 30,
-    "visibile": true
-  },
-  {
-    "id": "opera-002",
-    "titolo": "Personaggio e bolle",
-    "categoria": "dipinti",
-    "descrizione": "Dipinto fantastico su tela.",
-    "immagine": "/assets/images/dipinti-personaggio-bolle.webp",
-    "ordine": 20,
     "visibile": true
   },
   {
@@ -375,6 +375,42 @@
     "descrizione": "Disegno con la sabbia su tavolo luminoso durante uno spettacolo.",
     "immagine": "/assets/images/sandart-sand-art-dal-vivo.webp",
     "ordine": 402,
+    "visibile": true
+  },
+  {
+    "id": "pera-043",
+    "titolo": "Angelo",
+    "categoria": "pirografie",
+    "descrizione": "Angelo",
+    "immagine": "/assets/images/50640132310227844603644898930485424604261955n.jpg",
+    "ordine": 300,
+    "visibile": true
+  },
+  {
+    "id": "opera-044",
+    "titolo": "Tartaruga Mansardata",
+    "categoria": "pirografie",
+    "descrizione": "Tartaruga Mansardata",
+    "immagine": "/assets/images/50647985710227880951873581603834299470126792n.jpg",
+    "ordine": 600,
+    "visibile": true
+  },
+  {
+    "id": "opera-046",
+    "titolo": "Mandolino",
+    "categoria": "pirografie",
+    "descrizione": "Mandolino",
+    "immagine": "/assets/images/555557795102290227972590023891502787734520042n.jpg",
+    "ordine": 403,
+    "visibile": true
+  },
+  {
+    "id": "opera-047",
+    "titolo": "Futuro assicurato",
+    "categoria": "scenografie",
+    "descrizione": "Allestimento mostra fotografica",
+    "immagine": "/assets/images/597392949102298807955084223276282024999312551n.jpg",
+    "ordine": 500,
     "visibile": true
   }
 ]
