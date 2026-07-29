@@ -94,7 +94,7 @@
     "titolo": "L’uomo e la nave",
     "categoria": "dipinti",
     "descrizione": "Pittura narrativa e simbolica.",
-    "immagine": "/assets/images/dipinti-uomo-nave.webp",
+    "immagine": "/assets/images/fbimg1753537888145-1.jpg",
     "ordine": 110,
     "visibile": true
   },
@@ -103,7 +103,7 @@
     "titolo": "Il libro-isola",
     "categoria": "dipinti",
     "descrizione": "Composizione pittorica fantastica.",
-    "immagine": "/assets/images/dipinti-libro-isola.webp",
+    "immagine": "/assets/images/fbimg1753537897508-1.jpg",
     "ordine": 120,
     "visibile": true
   },
@@ -112,7 +112,7 @@
     "titolo": "La mano e il calice",
     "categoria": "dipinti",
     "descrizione": "Dipinto simbolico.",
-    "immagine": "/assets/images/dipinti-mano-calice.webp",
+    "immagine": "/assets/images/fbimg1753537909308-2.jpg",
     "ordine": 130,
     "visibile": true
   },
