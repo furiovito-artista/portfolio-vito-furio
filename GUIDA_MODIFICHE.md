@@ -22,3 +22,7 @@ Apri l’opera, scegli **Fotografia**, carica o seleziona l’immagine e salva.
 
 ## Cambiare copertina
 Apri **Impostazioni del sito** e modifica **Immagine di copertina**.
+
+
+---
+Aggiornamento 2026-07-29: incluse tutte le 41 immagini artistiche migliorate disponibili nel portfolio corrente.
