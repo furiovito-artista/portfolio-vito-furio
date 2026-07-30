@@ -371,7 +371,7 @@
   {
     "id": "opera-archivio-001",
     "titolo": "Opera dall’archivio 01",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-001-100667871-10216303560526033-407118326490202112-n.webp",
     "ordine": 420,
@@ -380,7 +380,7 @@
   {
     "id": "opera-archivio-002",
     "titolo": "Opera dall’archivio 02",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-002-100771825-10216327892014305-7044380719224717312-n.webp",
     "ordine": 430,
@@ -389,7 +389,7 @@
   {
     "id": "opera-archivio-003",
     "titolo": "Opera dall’archivio 03",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-003-190815747-10218687665407165-2292786053230046919-n.webp",
     "ordine": 440,
@@ -398,7 +398,7 @@
   {
     "id": "opera-archivio-004",
     "titolo": "Opera dall’archivio 04",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-004-190908861-10218687655166909-6122466670158380346-n.webp",
     "ordine": 450,
@@ -407,7 +407,7 @@
   {
     "id": "opera-archivio-005",
     "titolo": "Opera dall’archivio 05",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-005-34777284-10211328887042305-2344481488491249664-n.webp",
     "ordine": 460,
@@ -416,7 +416,7 @@
   {
     "id": "opera-archivio-006",
     "titolo": "Opera dall’archivio 06",
-    "categoria": "archivio",
+    "categoria": "sandart",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-006-37559733-10211581770444232-3732913487504998400-n.webp",
     "ordine": 470,
@@ -425,7 +425,7 @@
   {
     "id": "opera-archivio-007",
     "titolo": "Opera dall’archivio 07",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-007-42658014-10211987438385677-6310004314483982336-n.webp",
     "ordine": 480,
@@ -434,7 +434,7 @@
   {
     "id": "opera-archivio-008",
     "titolo": "Opera dall’archivio 08",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-008-466089866-10225779017726541-5453486286962483251-n.webp",
     "ordine": 490,
@@ -443,7 +443,7 @@
   {
     "id": "opera-archivio-009",
     "titolo": "Opera dall’archivio 09",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-009-466379137-10225779316854019-1721902452116079955-n.webp",
     "ordine": 500,
@@ -452,7 +452,7 @@
   {
     "id": "opera-archivio-010",
     "titolo": "Opera dall’archivio 10",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-010-466729258-10225779317094025-138847076249860529-n.webp",
     "ordine": 510,
@@ -461,7 +461,7 @@
   {
     "id": "opera-archivio-011",
     "titolo": "Opera dall’archivio 11",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-011-467149307-10225863751404830-2093240596972783053-n.webp",
     "ordine": 520,
@@ -470,16 +470,16 @@
   {
     "id": "opera-archivio-012",
     "titolo": "Opera dall’archivio 12",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
-    "immagine": "/assets/images/archivio-012-467238175-10235999678231310-8896350340214335220-n.webp",
+    "immagine": "/assets/images/archivio-012-ritagliata-1.jpg",
     "ordine": 530,
     "visibile": true
   },
   {
     "id": "opera-archivio-013",
     "titolo": "Opera dall’archivio 13",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-013-467248540-10225867094408403-6638908626157315623-n.webp",
     "ordine": 540,
@@ -488,16 +488,16 @@
   {
     "id": "opera-archivio-014",
     "titolo": "Opera dall’archivio 14",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
-    "immagine": "/assets/images/archivio-014-467307491-10235999679551343-3661421589017693744-n.webp",
+    "immagine": "/assets/images/archivio-014-ritagliata-1.jpg",
     "ordine": 550,
     "visibile": true
   },
   {
     "id": "opera-archivio-015",
     "titolo": "Opera dall’archivio 15",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-015-467389374-10225869204141145-5922626099825709868-n.webp",
     "ordine": 560,
@@ -506,7 +506,7 @@
   {
     "id": "opera-archivio-016",
     "titolo": "Opera dall’archivio 16",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-016-468494831-10160287546636631-3983719708202829856-n.webp",
     "ordine": 570,
@@ -515,7 +515,7 @@
   {
     "id": "opera-archivio-017",
     "titolo": "Opera dall’archivio 17",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-017-485779100-10226884594005257-4717034984659744029-n.webp",
     "ordine": 580,
@@ -524,7 +524,7 @@
   {
     "id": "opera-archivio-018",
     "titolo": "Opera dall’archivio 18",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-018-494072398-3688727678016348-2165949788245246875-n.webp",
     "ordine": 590,
@@ -533,7 +533,7 @@
   {
     "id": "opera-archivio-019",
     "titolo": "Opera dall’archivio 19",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-019-497467523-9759291380856966-7006390907720708721-n.webp",
     "ordine": 600,
@@ -542,7 +542,7 @@
   {
     "id": "opera-archivio-020",
     "titolo": "Opera dall’archivio 20",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-020-504093259-3954803101332843-2120451287005881565-n.webp",
     "ordine": 610,
@@ -551,7 +551,7 @@
   {
     "id": "opera-archivio-021",
     "titolo": "Opera dall’archivio 21",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-021-506401323-10227844603644898-930485424604261955-n.webp",
     "ordine": 620,
@@ -560,7 +560,7 @@
   {
     "id": "opera-archivio-022",
     "titolo": "Opera dall’archivio 22",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-022-506479857-10227880951873581-603834299470126792-n.webp",
     "ordine": 630,
@@ -569,7 +569,7 @@
   {
     "id": "opera-archivio-023",
     "titolo": "Opera dall’archivio 23",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-023-516612666-10224056205151582-3463842655310351339-n.webp",
     "ordine": 640,
@@ -578,7 +578,7 @@
   {
     "id": "opera-archivio-024",
     "titolo": "Opera dall’archivio 24",
-    "categoria": "archivio",
+    "categoria": "murales",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-024-554567101-24920952564206222-7305455732063399578-n.webp",
     "ordine": 650,
@@ -587,7 +587,7 @@
   {
     "id": "opera-archivio-025",
     "titolo": "Opera dall’archivio 25",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-025-554988766-10238304786189402-7848311005342926012-n.webp",
     "ordine": 660,
@@ -596,7 +596,7 @@
   {
     "id": "opera-archivio-026",
     "titolo": "Opera dall’archivio 26",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-026-555557795-10229022797259002-3891502787734520042-n.webp",
     "ordine": 670,
@@ -605,7 +605,7 @@
   {
     "id": "opera-archivio-027",
     "titolo": "Opera dall’archivio 27",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-027-557633508-10229136027569689-4640121611690199785-n.webp",
     "ordine": 680,
@@ -614,7 +614,7 @@
   {
     "id": "opera-archivio-028",
     "titolo": "Opera dall’archivio 28",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-028-597392949-10229880795508422-3276282024999312551-n.webp",
     "ordine": 690,
@@ -623,7 +623,7 @@
   {
     "id": "opera-archivio-029",
     "titolo": "Opera dall’archivio 29",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-029-598598843-10229887258349989-6653872494920117874-n.webp",
     "ordine": 700,
@@ -632,7 +632,7 @@
   {
     "id": "opera-archivio-030",
     "titolo": "Opera dall’archivio 30",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-030-642335437-10230738830918771-2397262567108059010-n.webp",
     "ordine": 710,
@@ -641,7 +641,7 @@
   {
     "id": "opera-archivio-031",
     "titolo": "Opera dall’archivio 31",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-031-642782757-10230738929361232-5566980828023453773-n.webp",
     "ordine": 720,
@@ -650,7 +650,7 @@
   {
     "id": "opera-archivio-032",
     "titolo": "Opera dall’archivio 32",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-032-649115538-10230904458499357-4717425008233085895-n.webp",
     "ordine": 730,
@@ -659,7 +659,7 @@
   {
     "id": "opera-archivio-033",
     "titolo": "Opera dall’archivio 33",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-033-652489384-10241348589962351-4213059942580209989-n.webp",
     "ordine": 740,
@@ -668,7 +668,7 @@
   {
     "id": "opera-archivio-034",
     "titolo": "Opera dall’archivio 34",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-034-653476292-10238546363390580-831265850585975780-n.webp",
     "ordine": 750,
@@ -677,7 +677,7 @@
   {
     "id": "opera-archivio-035",
     "titolo": "Opera dall’archivio 35",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-035-69817951-10214115863914985-691121582944288768-n.webp",
     "ordine": 760,
@@ -686,7 +686,7 @@
   {
     "id": "opera-archivio-036",
     "titolo": "Opera dall’archivio 36",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-036-82476814-10215168481309762-4941797866222911488-n.webp",
     "ordine": 770,
@@ -695,7 +695,7 @@
   {
     "id": "opera-archivio-037",
     "titolo": "Opera dall’archivio 37",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-037-82881203-10215168444148833-3492667173178966016-n.webp",
     "ordine": 780,
@@ -704,7 +704,7 @@
   {
     "id": "opera-archivio-038",
     "titolo": "Opera dall’archivio 38",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-038-95024160-10216055900214680-5229476399206629376-n.webp",
     "ordine": 790,
@@ -713,7 +713,7 @@
   {
     "id": "opera-archivio-039",
     "titolo": "Opera dall’archivio 39",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-039-chatgpt-image-29-lug-2026-17-50-18.webp",
     "ordine": 800,
@@ -722,7 +722,7 @@
   {
     "id": "opera-archivio-040",
     "titolo": "Opera dall’archivio 40",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-040-fb-img-1611652528400.webp",
     "ordine": 810,
@@ -731,7 +731,7 @@
   {
     "id": "opera-archivio-041",
     "titolo": "Opera dall’archivio 41",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-041-fb-img-1711479562955.webp",
     "ordine": 820,
@@ -740,7 +740,7 @@
   {
     "id": "opera-archivio-042",
     "titolo": "Opera dall’archivio 42",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-042-fb-img-1711479569681.webp",
     "ordine": 830,
@@ -749,7 +749,7 @@
   {
     "id": "opera-archivio-043",
     "titolo": "Opera dall’archivio 43",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-043-fb-img-1717335750887.webp",
     "ordine": 840,
@@ -758,7 +758,7 @@
   {
     "id": "opera-archivio-044",
     "titolo": "Opera dall’archivio 44",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-044-fb-img-1736278875696.webp",
     "ordine": 850,
@@ -767,7 +767,7 @@
   {
     "id": "opera-archivio-045",
     "titolo": "Opera dall’archivio 45",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-045-fb-img-1753537916787.webp",
     "ordine": 860,
@@ -776,7 +776,7 @@
   {
     "id": "opera-archivio-046",
     "titolo": "Opera dall’archivio 46",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-046-fb-img-1753537935271.webp",
     "ordine": 870,
@@ -785,7 +785,7 @@
   {
     "id": "opera-archivio-047",
     "titolo": "Opera dall’archivio 47",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-047-fb-img-1753537947966.webp",
     "ordine": 880,
@@ -794,7 +794,7 @@
   {
     "id": "opera-archivio-048",
     "titolo": "Opera dall’archivio 48",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-048-fb-img-1753537966014.webp",
     "ordine": 890,
@@ -803,25 +803,16 @@
   {
     "id": "opera-archivio-049",
     "titolo": "Opera dall’archivio 49",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-049-fb-img-1753537979054-1.webp",
     "ordine": 900,
     "visibile": true
   },
   {
-    "id": "opera-archivio-050",
-    "titolo": "Opera dall’archivio 50",
-    "categoria": "archivio",
-    "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
-    "immagine": "/assets/images/archivio-050-fb-img-1753537979054.webp",
-    "ordine": 910,
-    "visibile": true
-  },
-  {
     "id": "opera-archivio-051",
     "titolo": "Opera dall’archivio 51",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-051-fb-img-1753538038056.webp",
     "ordine": 920,
@@ -830,7 +821,7 @@
   {
     "id": "opera-archivio-052",
     "titolo": "Opera dall’archivio 52",
-    "categoria": "archivio",
+    "categoria": "teatro",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-052-fb-img-1755845875724.webp",
     "ordine": 930,
@@ -839,7 +830,7 @@
   {
     "id": "opera-archivio-053",
     "titolo": "Opera dall’archivio 53",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-053-fb-img-1767804942438.webp",
     "ordine": 940,
@@ -848,7 +839,7 @@
   {
     "id": "opera-archivio-054",
     "titolo": "Opera dall’archivio 54",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-054-img-20210406-wa0003.webp",
     "ordine": 950,
@@ -857,7 +848,7 @@
   {
     "id": "opera-archivio-055",
     "titolo": "Opera dall’archivio 55",
-    "categoria": "archivio",
+    "categoria": "scenografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-055-img-20240601-wa0035.webp",
     "ordine": 960,
@@ -866,7 +857,7 @@
   {
     "id": "opera-archivio-056",
     "titolo": "Opera dall’archivio 56",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-056-img-20191128-151949.webp",
     "ordine": 970,
@@ -875,7 +866,7 @@
   {
     "id": "opera-archivio-057",
     "titolo": "Opera dall’archivio 57",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-057-img-20240819-190254.webp",
     "ordine": 980,
@@ -884,7 +875,7 @@
   {
     "id": "opera-archivio-058",
     "titolo": "Opera dall’archivio 58",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-058-img-20241008-163338.webp",
     "ordine": 990,
@@ -893,25 +884,16 @@
   {
     "id": "opera-archivio-059",
     "titolo": "Opera dall’archivio 59",
-    "categoria": "archivio",
+    "categoria": "pirografie",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-059-img-20250722-164823.webp",
     "ordine": 1000,
     "visibile": true
   },
   {
-    "id": "opera-archivio-060",
-    "titolo": "Opera dall’archivio 60",
-    "categoria": "archivio",
-    "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
-    "immagine": "/assets/images/archivio-060-img-20250819-133206.webp",
-    "ordine": 1010,
-    "visibile": true
-  },
-  {
     "id": "opera-archivio-061",
     "titolo": "Opera dall’archivio 61",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-061-img-20251227-172837.webp",
     "ordine": 1020,
@@ -920,7 +902,7 @@
   {
     "id": "opera-archivio-062",
     "titolo": "Opera dall’archivio 62",
-    "categoria": "archivio",
+    "categoria": "dipinti",
     "descrizione": "Opera e documentazione dall’archivio artistico di Vito Furio.",
     "immagine": "/assets/images/archivio-062-img-20260728-190132.webp",
     "ordine": 1030,
