@@ -1,14 +1,5 @@
 [
   {
-    "id": "opera-001",
-    "titolo": "Personaggio giocoliere",
-    "categoria": "dipinti",
-    "descrizione": "Illustrazione figurativa dipinta.",
-    "immagine": "/assets/images/dipinti-giocoliere.webp",
-    "ordine": 10,
-    "visibile": true
-  },
-  {
     "id": "opera-002",
     "titolo": "Personaggio e bolle",
     "categoria": "dipinti",
