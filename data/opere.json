@@ -496,7 +496,7 @@
   },
   {
     "id": "opera-archivio-016",
-    "titolo": "Il giocoliere e la scala",
+    "titolo": "Il giocoliere",
     "categoria": "murales",
     "descrizione": "Intervento pittorico murale con personaggi circensi e una scala.",
     "immagine": "/assets/images/archivio-016-468494831-10160287546636631-3983719708202829856-n.webp",
@@ -505,16 +505,16 @@
   },
   {
     "id": "opera-archivio-017",
-    "titolo": "Ritratto con orsetto",
+    "titolo": "Ritratto ",
     "categoria": "dipinti",
-    "descrizione": "Dipinto figurativo di una giovane donna in abito d’epoca con un piccolo oggetto affettivo.",
+    "descrizione": "Dipinto figurativo di una giovane donna in abito d’epoca ",
     "immagine": "/assets/images/archivio-017-485779100-10226884594005257-4717034984659744029-n.webp",
     "ordine": 580,
     "visibile": true
   },
   {
     "id": "opera-archivio-018",
-    "titolo": "Il mago e il fiore",
+    "titolo": "lo spazzacamino innamorato",
     "categoria": "teatro",
     "descrizione": "Azione teatrale costruita intorno a un fiore sospeso e al gesto dell’illusionista.",
     "immagine": "/assets/images/archivio-018-494072398-3688727678016348-2165949788245246875-n.webp",
@@ -532,7 +532,7 @@
   },
   {
     "id": "opera-archivio-020",
-    "titolo": "Murale anatomico in lavorazione",
+    "titolo": "Murale reparto pediatrico",
     "categoria": "murales",
     "descrizione": "Fase di realizzazione di un murale figurativo in uno spazio interno.",
     "immagine": "/assets/images/archivio-020-504093259-3954803101332843-2120451287005881565-n.webp",
