@@ -64,7 +64,7 @@
   },
   {
     "id": "opera-009",
-    "titolo": "Balena volante",
+    "titolo": "viaggiare",
     "categoria": "dipinti",
     "descrizione": "Pittura narrativa fantastica.",
     "immagine": "/assets/images/dipinti-balena-volante.webp",
@@ -73,7 +73,7 @@
   },
   {
     "id": "opera-010",
-    "titolo": "L’uomo delle bolle",
+    "titolo": "Viaggio onirico",
     "categoria": "dipinti",
     "descrizione": "Dipinto figurativo.",
     "immagine": "/assets/images/dipinti-uomo-bolle.webp",
@@ -703,7 +703,7 @@
   },
   {
     "id": "opera-archivio-040",
-    "titolo": "Corpi in pittura",
+    "titolo": "Amore creativo",
     "categoria": "teatro",
     "descrizione": "Azione performativa basata sul colore, sul volto e sull’incontro tra due figure.",
     "immagine": "/assets/images/archivio-040-fb-img-1611652528400.webp",
@@ -712,7 +712,7 @@
   },
   {
     "id": "opera-archivio-041",
-    "titolo": "Teschio e calice",
+    "titolo": "Zucco ",
     "categoria": "scenografie",
     "descrizione": "Composizione scenografica con teschio, tessuto e recipiente.",
     "immagine": "/assets/images/archivio-041-fb-img-1711479562955.webp",
@@ -721,7 +721,7 @@
   },
   {
     "id": "opera-archivio-042",
-    "titolo": "Equilibrista sul mondo",
+    "titolo": "Orologio Zucco",
     "categoria": "scenografie",
     "descrizione": "Piccola scultura fantastica con una figura in equilibrio su una sfera.",
     "immagine": "/assets/images/archivio-042-fb-img-1711479569681.webp",
@@ -730,7 +730,7 @@
   },
   {
     "id": "opera-archivio-043",
-    "titolo": "La donna e l’acquario",
+    "titolo": "La donna",
     "categoria": "dipinti",
     "descrizione": "Dipinto narrativo con figura femminile, ombrello e boccia d’acqua.",
     "immagine": "/assets/images/archivio-043-fb-img-1717335750887.webp",
@@ -739,7 +739,7 @@
   },
   {
     "id": "opera-archivio-044",
-    "titolo": "Violino meccanico",
+    "titolo": "Orologio Violino pirografato",
     "categoria": "scenografie",
     "descrizione": "Strumento-scultura ispirato al violino, costruito con elementi lignei e ingranaggi.",
     "immagine": "/assets/images/archivio-044-fb-img-1736278875696.webp",
@@ -757,7 +757,7 @@
   },
   {
     "id": "opera-archivio-046",
-    "titolo": "La danzatrice e la maschera",
+    "titolo": "Identità",
     "categoria": "dipinti",
     "descrizione": "Dipinto figurativo sul movimento, la scena e l’identità teatrale.",
     "immagine": "/assets/images/archivio-046-fb-img-1753537935271.webp",
@@ -784,7 +784,7 @@
   },
   {
     "id": "opera-archivio-049",
-    "titolo": "La casa-lumaca e i palloncini",
+    "titolo": "La casa-lumaca ",
     "categoria": "dipinti",
     "descrizione": "Dipinto fantastico con una casa viaggiante, una lumaca e palloncini nel cielo.",
     "immagine": "/assets/images/archivio-049-fb-img-1753537979054-1.webp",
