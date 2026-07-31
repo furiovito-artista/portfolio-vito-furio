@@ -127,7 +127,7 @@
   },
   {
     "id": "opera-016",
-    "titolo": "Figure fantastiche",
+    "titolo": "io",
     "categoria": "dipinti",
     "descrizione": "Composizione pittorica narrativa.",
     "immagine": "/assets/images/dipinti-figure-fantastiche.webp",
@@ -136,7 +136,7 @@
   },
   {
     "id": "opera-017",
-    "titolo": "Ragazza con palla",
+    "titolo": "Diversamente Sognante",
     "categoria": "dipinti",
     "descrizione": "Illustrazione a china.",
     "immagine": "/assets/images/dipinti-ragazza-palla.webp",
@@ -145,7 +145,7 @@
   },
   {
     "id": "opera-018",
-    "titolo": "Figura con conchiglia",
+    "titolo": "legata ",
     "categoria": "dipinti",
     "descrizione": "Illustrazione a china.",
     "immagine": "/assets/images/dipinti-figura-conchiglia.webp",
@@ -172,7 +172,7 @@
   },
   {
     "id": "opera-021",
-    "titolo": "Figura con cappello",
+    "titolo": "Viaggio a Vapore",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-figura-cappello.webp",
@@ -181,7 +181,7 @@
   },
   {
     "id": "opera-022",
-    "titolo": "Musicista fantastico",
+    "titolo": "Musicista Sardo",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-musicista.webp",
@@ -190,7 +190,7 @@
   },
   {
     "id": "opera-023",
-    "titolo": "Ciclisti fantastici",
+    "titolo": "Dama ",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-ciclisti.webp",
@@ -199,7 +199,7 @@
   },
   {
     "id": "opera-024",
-    "titolo": "Veicolo immaginario",
+    "titolo": "Il Cercatore",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-veicolo.webp",
@@ -217,7 +217,7 @@
   },
   {
     "id": "opera-026",
-    "titolo": "Viaggiatore fantastico",
+    "titolo": "Il Conte",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-viaggiatore.webp",
@@ -226,7 +226,7 @@
   },
   {
     "id": "opera-027",
-    "titolo": "Lepre in abito",
+    "titolo": "Lentamente",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-lepre.webp",
@@ -235,7 +235,7 @@
   },
   {
     "id": "opera-028",
-    "titolo": "Città fantastica",
+    "titolo": "Lo spaventapasseri",
     "categoria": "pirografie",
     "descrizione": "Pirografia su tavola circolare.",
     "immagine": "/assets/images/pirografie-piro-citta.webp",
@@ -280,7 +280,7 @@
   },
   {
     "id": "opera-033",
-    "titolo": "Oggetti di viaggio",
+    "titolo": "Zucca da viaggio",
     "categoria": "scenografie",
     "descrizione": "Serie di oggetti artistici e assemblaggi.",
     "immagine": "/assets/images/scenografie-oggetti-viaggio.webp",
@@ -289,7 +289,7 @@
   },
   {
     "id": "opera-034",
-    "titolo": "Strumento-scultura",
+    "titolo": "Orologio pirografato",
     "categoria": "scenografie",
     "descrizione": "Oggetto artistico tra musica e ingranaggio.",
     "immagine": "/assets/images/scenografie-strumento-scultura.webp",
@@ -298,7 +298,7 @@
   },
   {
     "id": "opera-035",
-    "titolo": "Pupazzo sospeso",
+    "titolo": "Elfo porta lampada",
     "categoria": "scenografie",
     "descrizione": "Personaggio e oggetto scenografico.",
     "immagine": "/assets/images/scenografie-pupazzo-sospeso.webp",
@@ -307,7 +307,7 @@
   },
   {
     "id": "opera-036",
-    "titolo": "Figura in equilibrio",
+    "titolo": "Zirighedda",
     "categoria": "scenografie",
     "descrizione": "Pannello materico e oggetto artistico.",
     "immagine": "/assets/images/scenografie-pannello-ombra.webp",
@@ -334,7 +334,7 @@
   },
   {
     "id": "opera-039",
-    "titolo": "Scena a due",
+    "titolo": "Teatrando",
     "categoria": "teatro",
     "descrizione": "Azione teatrale e costruzione del personaggio.",
     "immagine": "/assets/images/teatro-scena-due-attori.webp",
@@ -361,7 +361,7 @@
   },
   {
     "id": "opera-archivio-001",
-    "titolo": "L’abbraccio sulla valigia",
+    "titolo": "Consolazione",
     "categoria": "dipinti",
     "descrizione": "Dipinto figurativo dedicato all’incontro e alla cura tra due personaggi.",
     "immagine": "/assets/images/archivio-001-100667871-10216303560526033-407118326490202112-n.webp",
@@ -388,7 +388,7 @@
   },
   {
     "id": "opera-archivio-004",
-    "titolo": "Profilo di ragazza",
+    "titolo": "Athena",
     "categoria": "pirografie",
     "descrizione": "Ritratto femminile realizzato a pirografia su supporto circolare.",
     "immagine": "/assets/images/archivio-004-190908861-10218687655166909-6122466670158380346-n.webp",
@@ -397,7 +397,7 @@
   },
   {
     "id": "opera-archivio-005",
-    "titolo": "Il castello sulla tartaruga",
+    "titolo": "Paesi in movimento",
     "categoria": "dipinti",
     "descrizione": "Dipinto fantastico con una città-nave trasportata da una tartaruga.",
     "immagine": "/assets/images/archivio-005-34777284-10211328887042305-2344481488491249664-n.webp",
@@ -415,16 +415,16 @@
   },
   {
     "id": "opera-archivio-007",
-    "titolo": "L’elefante volante",
+    "titolo": "Il Draghetto",
     "categoria": "pirografie",
-    "descrizione": "Pirografia fantastica con un elefante sollevato da palloncini.",
+    "descrizione": "Pirografia fantastica con un Draghetto sollevato da palloncini.",
     "immagine": "/assets/images/archivio-007-42658014-10211987438385677-6310004314483982336-n.webp",
     "ordine": 480,
     "visibile": true
   },
   {
     "id": "opera-archivio-008",
-    "titolo": "La giraffa sul mare",
+    "titolo": "La giraffa Betta",
     "categoria": "murales",
     "descrizione": "Murale panoramico con giraffa, paesaggio marino e figure giocose.",
     "immagine": "/assets/images/archivio-008-466089866-10225779017726541-5453486286962483251-n.webp",
@@ -433,7 +433,7 @@
   },
   {
     "id": "opera-archivio-009",
-    "titolo": "Pesci rossi nel blu",
+    "titolo": "dettaglio Murales Betta",
     "categoria": "murales",
     "descrizione": "Dettaglio pittorico del murale, con pesci rossi immersi nel fondale azzurro.",
     "immagine": "/assets/images/archivio-009-466379137-10225779316854019-1721902452116079955-n.webp",
@@ -469,7 +469,7 @@
   },
   {
     "id": "opera-archivio-013",
-    "titolo": "Creatura su monociclo",
+    "titolo": "Equilibrio",
     "categoria": "pirografie",
     "descrizione": "Pirografia fantastica con una creatura in equilibrio su una ruota.",
     "immagine": "/assets/images/archivio-013-467248540-10225867094408403-6638908626157315623-n.webp",
@@ -487,7 +487,7 @@
   },
   {
     "id": "opera-archivio-015",
-    "titolo": "Il portatore del castello",
+    "titolo": "Il viaggiante",
     "categoria": "pirografie",
     "descrizione": "Pirografia fantastica con una figura che sostiene un castello.",
     "immagine": "/assets/images/archivio-015-467389374-10225869204141145-5922626099825709868-n.webp",
