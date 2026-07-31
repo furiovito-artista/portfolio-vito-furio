@@ -550,7 +550,7 @@
   },
   {
     "id": "opera-archivio-022",
-    "titolo": "La tartaruga viaggiatrice",
+    "titolo": "La tartaruga Mansardata",
     "categoria": "scenografie",
     "descrizione": "Oggetto scenico con tartaruga e personaggio fantastico in equilibrio sul guscio.",
     "immagine": "/assets/images/archivio-022-506479857-10227880951873581-603834299470126792-n.webp",
@@ -568,7 +568,7 @@
   },
   {
     "id": "opera-archivio-025",
-    "titolo": "Il giocoliere sulla sfera",
+    "titolo": "Dipingimi le Balle",
     "categoria": "dipinti",
     "descrizione": "Dipinto figurativo realizzato su una grande superficie sferica.",
     "immagine": "/assets/images/archivio-025-554988766-10238304786189402-7848311005342926012-n.webp",
@@ -577,7 +577,7 @@
   },
   {
     "id": "opera-archivio-026",
-    "titolo": "Chitarra meccanica",
+    "titolo": "Mandolino della taranta",
     "categoria": "scenografie",
     "descrizione": "Strumento-scultura costruito con corde, elementi metallici e parti assemblate.",
     "immagine": "/assets/images/archivio-026-555557795-10229022797259002-3891502787734520042-n.webp",
@@ -595,7 +595,7 @@
   },
   {
     "id": "opera-archivio-028",
-    "titolo": "Installazione in rosso",
+    "titolo": "Il sicuro Affuturato",
     "categoria": "scenografie",
     "descrizione": "Allestimento scenografico immersivo con figure, luci e una sequenza di schermi.",
     "immagine": "/assets/images/archivio-028-597392949-10229880795508422-3276282024999312551-n.webp",
@@ -613,9 +613,9 @@
   },
   {
     "id": "opera-archivio-030",
-    "titolo": "Il giocoliere dei tre cerchi",
+    "titolo": "Il giocoliere Tofù",
     "categoria": "dipinti",
-    "descrizione": "Dipinto figurativo con un personaggio circense e tre oggetti sospesi.",
+    "descrizione": "Dipinto figurativo con un personaggio circense ",
     "immagine": "/assets/images/archivio-030-642335437-10230738830918771-2397262567108059010-n.webp",
     "ordine": 710,
     "visibile": true
