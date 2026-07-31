@@ -705,7 +705,7 @@
     "id": "opera-archivio-039",
     "titolo": "Pane, formaggio e fichi – studio digitale",
     "categoria": "dipinti",
-    "descrizione": "Composizione digitale di natura morta con pane, formaggio e fichi.",
+    "descrizione": "Natura morta con pane, formaggio e fichi.",
     "immagine": "/assets/images/archivio-039-chatgpt-image-29-lug-2026-17-50-18.webp",
     "ordine": 800,
     "visibile": true
@@ -882,30 +882,12 @@
     "visibile": true
   },
   {
-    "id": "opera-archivio-060",
-    "titolo": "La principessa sul pisello",
-    "categoria": "pirografie",
-    "descrizione": "Pirografia ispirata alla fiaba, con la principessa addormentata su una pila di materassi.",
-    "immagine": "/assets/images/archivio-060-img-20250819-133206.webp",
-    "ordine": 1010,
-    "visibile": true
-  },
-  {
     "id": "opera-archivio-061",
     "titolo": "Ritratto di cane",
     "categoria": "dipinti",
     "descrizione": "Dipinto realistico di un cane ritratto in un ambiente domestico.",
     "immagine": "/assets/images/archivio-061-img-20251227-172837.webp",
     "ordine": 1020,
-    "visibile": true
-  },
-  {
-    "id": "opera-archivio-062",
-    "titolo": "Pane, formaggio e fichi – dipinto",
-    "categoria": "dipinti",
-    "descrizione": "Natura morta pittorica con pane, formaggio e fichi.",
-    "immagine": "/assets/images/archivio-062-img-20260728-190132.webp",
-    "ordine": 1030,
     "visibile": true
   }
 ]
