@@ -315,15 +315,6 @@
     "visibile": true
   },
   {
-    "id": "opera-037",
-    "titolo": "Allestimento circense",
-    "categoria": "scenografie",
-    "descrizione": "Spazio e oggetto scenografico per spettacolo.",
-    "immagine": "/assets/images/scenografie-allestimento-circo.webp",
-    "ordine": 370,
-    "visibile": true
-  },
-  {
     "id": "opera-038",
     "titolo": "Personaggio dal grande cappello",
     "categoria": "teatro",
