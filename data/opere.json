@@ -55,10 +55,10 @@
   },
   {
     "id": "opera-008",
-    "titolo": "Creatura nella bottiglia",
+    "titolo": "La dama",
     "categoria": "dipinti",
-    "descrizione": "Disegno fantastico a grafite.",
-    "immagine": "/assets/images/dipinti-creatura-bottiglia.webp",
+    "descrizione": "La Dama",
+    "immagine": "/assets/images/img20260801133602-edit-1.jpg",
     "ordine": 80,
     "visibile": true
   },
