@@ -19,10 +19,10 @@
   },
   {
     "id": "opera-004",
-    "titolo": "Ragazza con gatto",
+    "titolo": "il cercatore",
     "categoria": "dipinti",
-    "descrizione": "Disegno e colore su carta.",
-    "immagine": "/assets/images/dipinti-ragazza-gatto.webp",
+    "descrizione": "il cercatore",
+    "immagine": "/assets/images/img20260801133619-edit.jpg",
     "ordine": 40,
     "visibile": true
   },
